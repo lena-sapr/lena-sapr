@@ -25,7 +25,7 @@ As Yuval Noah Harari said, [Data-ism](https://en.wikipedia.org/wiki/Dataism') is
 [![SQL](https://img.shields.io/badge/postgresql-32658f?style=plastic&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 ## In free time I like to fit-predict on my cat =^.^=
-[![Header](https://github.com/lena-sapr/lena-sapr/blob/main/assets/stepka.gif)]
+![Header](https://github.com/lena-sapr/lena-sapr/blob/main/assets/stepka.gif)
 
 ## Contact me
 <a href="https://t.me/lena_sapr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="bekalsu" height="30" width="40" /></a> 
