@@ -1,4 +1,4 @@
-# My name is Lena, I am a Data Scientist
+# Hi! My name is Lena, I am a Data Scientist
 
 ## I'm working on:
  - Data Analysis
