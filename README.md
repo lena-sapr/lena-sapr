@@ -1,11 +1,11 @@
-# My name is Lena, I am a Data Scientist =^.^=
+# My name is Lena, I am a Data Scientist
 
 ## I'm working on:
  - Data Analysis
  - Machine Learning
  - Deep Learning
 
-As Yuval Noah Harari said, Data-ism is the new religion. If that's the case, data scientists are kind of new priests o_O 
+As Yuval Noah Harari said, [Data-ism](https://en.wikipedia.org/wiki/Dataism') is the new religion. If that's the case, data scientists are kind of new priests o_O 
 
 ## Stack
 
@@ -24,8 +24,8 @@ As Yuval Noah Harari said, Data-ism is the new religion. If that's the case, dat
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)](https://www.docker.com)
 [![SQL](https://img.shields.io/badge/postgresql-32658f?style=plastic&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
-## In free time I like to fit-predict on my cat
-[![Header](https://github.com/lena-sapr/lena-sapr/blob/main/assets/IMG_20220708_095759_971_1.gif)]
+## In free time I like to fit-predict on my cat =^.^=
+[![Header](https://github.com/lena-sapr/lena-sapr/blob/main/assets/stepka.gif)]
 
 ## Contact me
 <a href="https://t.me/lena_sapr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="bekalsu" height="30" width="40" /></a> 
