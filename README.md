@@ -24,7 +24,7 @@
 
 ## Contact me
 <a href="https://t.me/lena_sapr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="bekalsu" height="30" width="40" /></a> 
-<a href="mailto:lena_sapr@mail.ru" target="blank"><img align="center" src="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Mail.Ru_Logo_2018.svg" alt="lena_sapr@mail.ru" height="30" width="40" /></a>
+<a href="mailto:lena_sapr@mail.ru" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Mail.Ru_Logo_2018.svg" alt="lena_sapr@mail.ru" height="30" width="40" /></a>
 <!--
 **lena-sapr/lena-sapr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
